@@ -18,7 +18,7 @@ We have to manually trigger workflow to start the training.
 5. Done 
 
 ### Env Variables
-```bash
+```bashhh
 
 export ACCESS_KEY_ID=<access-key>
 export AWS_SECRET_KEY=<secret-key>
